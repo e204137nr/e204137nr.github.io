@@ -1,0 +1,19 @@
+h1{
+    color:white;
+    text-align: center;
+    background-color: #000000;
+}
+
+h2{
+    text-align: center;
+    background-color: #00FF7F;
+}
+
+h3{
+    color:#0000ff;
+}
+
+body{
+    background-image: url(../images/01..jpg);
+    background-repeat: repeat-y;
+}
