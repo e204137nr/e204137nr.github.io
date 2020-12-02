@@ -1,0 +1,27 @@
+h1#title1{
+    color: aqua;
+    text-align: center;
+    background-color:darkred;
+}
+
+h1#title2{
+    color: fuchsia;
+    text-align: center;
+    background-color: dimgray;
+}
+
+h2#subtitle1{
+    color: chartreuse;
+    text-align: center;
+    background-color:darkblue;
+}
+
+h2#subtitle2{
+    color:darkorange;
+    text-align: center;
+    background-color:darkslategray
+}
+
+body{
+    background-image: url(../images/002.jpg);
+}
